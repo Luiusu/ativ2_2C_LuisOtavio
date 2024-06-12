@@ -1,0 +1,92 @@
+@media screen and (max-width: 500px) {
+
+    body{
+
+        background-color: purple;
+
+    }
+
+    div.part1 {
+
+        color: orange;
+        text-align: center;
+        font-size: 40px;
+
+    }
+
+    .part2 {
+
+        color: rgb(162, 243, 243);
+        text-align: center;
+        font-size: 30px;
+
+    }
+
+    .img {
+
+        width: 100%;
+
+    }
+}
+
+@media screen and (min-width: 500px) {
+
+    body{
+
+        background-color: orange;
+
+    }
+
+    div.part1 {
+
+        color: purple;
+        text-align: center;
+        font-size: 50px;
+
+    }
+
+    .part2 {
+
+        color: blue;
+        text-align: center;
+        font-size: 45px;
+
+    }
+
+    .img {
+
+        width: 100%;
+
+    }
+}
+
+@media screen and (min-width: 900px) {
+
+    body{
+
+        background-color: blue;
+
+    }
+
+    div.part1 {
+
+        color: aqua;
+        text-align: center;
+        font-size: 60px;
+
+    }
+
+    .part2 {
+
+        color: pink;
+        text-align: center;
+        font-size: 55px;
+
+    }
+
+    .img {
+
+        width: 100%;
+
+    }
+}
