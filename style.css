@@ -90,3 +90,27 @@
 
     }
 }
+
+.part1 {
+
+    border-color: aqua;
+    border-width: 5px;
+    border-style: solid;
+
+}
+
+.part2 {
+
+    border-color: violet;
+    border-width: 5px;
+    border-style: solid;
+
+}
+
+.img {
+
+    border-color: purple;
+    border-width: 5px;
+    border-style: solid;
+
+}
